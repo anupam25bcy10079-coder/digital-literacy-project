@@ -30,8 +30,7 @@ In this module, I learned about cybercrimes like UPI fraud and how people get sc
 
 # Links
 
-GitHub Profile: 
+GitHub Profile: https://github.com/anupam25bcy10079-coder/anupam25bcy10079-coder.git
 LinkedIn Profile:www.linkedin.com/in/anupam-thakur-10908b3bb
-Kaggle Profile: 
-HackerRank Profile:
-Google Form Quiz:
+Kaggle Profile: https://www.kaggle.com/anupamthakur07 
+Google Form Quiz:https://forms.gle/BTtb3UJ6fmStjAb19
